@@ -1,0 +1,31 @@
+.img{
+    border-radius: 100px;
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+}
+
+.maindiv{
+    border: 2px solid black;
+    text-align: center;
+    margin: 10px 170px 20px 200px;
+    padding: 30px 0px 200px 0px;
+    background-image: url(https://htmlcolorcodes.com/assets/images/colors/light-orange-color-solid-background-1920x1080.png);
+}
+.output{
+   border: 1px solid black; 
+   padding: 20px 10px 20px 10px;
+   margin-right: 450px;
+   margin-left: 450px;
+   margin-top: 10px;
+   
+}
+
+.fonts{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.body{}
